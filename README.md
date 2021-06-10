@@ -3,3 +3,6 @@
 
 ### 6th June 2021
 Earned 4th star in HackeRank Java
+
+### 9th June 2021
+Got 1st dose of COVID-19 vaccine, so was suffering from fever, so was unable to upload the code on that day.
